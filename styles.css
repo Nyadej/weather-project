@@ -2,7 +2,7 @@ body {
     background-color: rgb(250, 247, 255);
     font-family: "Plus Jakarta Sans", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 200;
+    font-weight: 300;
     font-style: normal;
 }
 
@@ -88,7 +88,7 @@ main {
 }
 
 .weather-app-unit {
-    margin-top: 16px;
+    margin-top: 6px;
     font-size: 28px;
 }
 
